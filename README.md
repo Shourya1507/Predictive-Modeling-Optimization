@@ -14,7 +14,7 @@ This repository contains the solution for the **ML Hackathon: The Predictive Mod
 
 1. Install the required dependencies:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn jupyter xgboost lightgbm optuna
+   pip install pandas numpy scikit-learn matplotlib seaborn jupyter xgboost lightgbm catboost optuna
    ```
 2. Run the training pipeline:
    ```bash
